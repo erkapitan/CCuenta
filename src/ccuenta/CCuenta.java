@@ -8,6 +8,7 @@ package ccuenta;
 /**
  *
  * @author Javier Bustamante
+ * Clase de prueba
  */
 public class CCuenta {
 
