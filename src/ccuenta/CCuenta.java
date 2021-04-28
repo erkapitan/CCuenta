@@ -7,7 +7,7 @@ package ccuenta;
 
 /**
  *
- * @author Javier Bustamante Toledo
+ * @author Javier Bustamante
  */
 public class CCuenta {
 
