@@ -7,7 +7,7 @@ package ccuenta;
 
 /**
  *
- * @author Francico Javier Cabrerizo Membrilla
+ * @author Javier Bustamante Toledo
  */
 public class Main {
 

@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 //import static junit.framework.Assert.*;
 /**
  *
- * @author José Luis
+ * @author Javier Bustamante Toledo
  */
 public class CCuentaTest extends TestCase {
     CCuenta instance = new CCuenta("Juan López","1000-2365-85-123456789",2500,0);
